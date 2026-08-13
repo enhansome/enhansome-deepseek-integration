@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Project List"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Agent frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RAG frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data AI Applications frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RAG frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "FHE (Fully Homomorphic Encryption) frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Solana frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Synthetic data curation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IM Application Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Office Addin"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Browser Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "VS Code Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visual Studio Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "neovim Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JetBrains Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Discord Bots"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Native AI Code Editor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emacs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Providers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:31:41.615Z",
+    "original_repository": "deepseek-ai/awesome-deepseek-integration",
+    "original_repository_sha": "94a834802fd1489db4ced41f3a23c669cb8644b1",
+    "enhanced_repository": "enhansome/enhansome-deepseek-integration",
+    "enhanced_repository_description": null,
+    "title": "Awesome DeepSeek Integrations with stars"
+  }
+}
