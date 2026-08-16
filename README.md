@@ -8,7 +8,7 @@
 
 Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
 
-English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md) ⭐ 38,761 | 🐛 129 | 📅 2026-02-23 / [繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md) ⭐ 38,761 | 🐛 129 | 📅 2026-02-23 / [日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md) ⭐ 38,761 | 🐛 129 | 📅 2026-02-23 / [Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md) ⭐ 38,761 | 🐛 129 | 📅 2026-02-23
+English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md) ⭐ 38,787 | 🐛 131 | 📅 2026-02-23 / [繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md) ⭐ 38,787 | 🐛 131 | 📅 2026-02-23 / [日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md) ⭐ 38,787 | 🐛 131 | 📅 2026-02-23 / [Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md) ⭐ 38,787 | 🐛 131 | 📅 2026-02-23
 
 <a href="https://trendshift.io/repositories/12798" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12798" alt="deepseek-ai%2Fawesome-deepseek-integration | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
@@ -1320,4 +1320,4 @@ The purpose is to build infrastructure in the field of large models, through the
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
