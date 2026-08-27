@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T00:17:35.418Z",
-    "original_repository": "deepseek-ai/awesome-deepseek-integration",
-    "original_repository_id": 741744308,
+    "last_updated": "2026-08-27T11:32:42.509Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 741744308,
+      "language": null,
+      "last_commit": "2026-02-23T16:27:47Z",
+      "owner": "deepseek-ai",
+      "repo": "awesome-deepseek-integration",
+      "stars": 38974
+    },
     "original_repository_sha": "94a834802fd1489db4ced41f3a23c669cb8644b1",
     "enhanced_repository": "enhansome/enhansome-deepseek-integration",
     "enhanced_repository_description": null,
