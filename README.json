@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T04:55:23.877Z",
+    "last_updated": "2026-08-29T02:55:26.765Z",
     "original_repository_info": {
       "archived": false,
       "id": 741744308,
@@ -9,7 +9,7 @@
       "last_commit": "2026-02-23T16:27:47Z",
       "owner": "deepseek-ai",
       "repo": "awesome-deepseek-integration",
-      "stars": 38981
+      "stars": 38990
     },
     "original_repository_sha": "94a834802fd1489db4ced41f3a23c669cb8644b1",
     "enhanced_repository": "enhansome/enhansome-deepseek-integration",
