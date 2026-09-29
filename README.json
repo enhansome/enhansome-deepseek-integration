@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-29T00:37:30.905Z",
+    "last_updated": "2026-09-29T23:58:32.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "Integrate the DeepSeek API into popular software",
@@ -13,7 +13,7 @@
       "open_issues": 160,
       "owner": "deepseek-ai",
       "repo": "awesome-deepseek-integration",
-      "stars": 39268,
+      "stars": 39271,
       "topics": [
         "awesome",
         "deepseek"
